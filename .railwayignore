@@ -1,0 +1,9 @@
+node_modules
+.env
+.env.*
+user-data.json
+user-data.local.json
+*.tmp
+.git
+logs
+*.log

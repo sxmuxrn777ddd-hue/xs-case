@@ -1,0 +1,170 @@
+{
+  "users": {
+    "900000001": {
+      "id": "900000001",
+      "publicId": "xs-70013551446",
+      "username": "localdev",
+      "firstName": "Local",
+      "lastName": "Player",
+      "photoUrl": "",
+      "balance": 8885,
+      "usedPromos": [],
+      "referredBy": "",
+      "displayMode": "id",
+      "customDisplayName": "",
+      "channelTaskClaimed": false
+    }
+  },
+  "promocodes": {
+    "XS2026": 50,
+    "START": 25
+  },
+  "pendingPayments": {},
+  "processedPayments": {},
+  "ledger": [
+    {
+      "id": "76f67bb6-df6a-4cba-bab8-22ba65b1ca45",
+      "userId": "900000001",
+      "publicId": "xs-70013551446",
+      "displayName": "@localdev",
+      "type": "game_spend",
+      "amount": -10,
+      "balanceAfter": 9990,
+      "reference": "crash:423eff98-fc21-4c36-9542-d6b6226d640c",
+      "createdAt": "2026-11-17T16:20:56.602Z"
+    },
+    {
+      "id": "89033099-c075-4c70-a7f5-496e37eeed58",
+      "userId": "900000001",
+      "publicId": "xs-70013551446",
+      "displayName": "@localdev",
+      "type": "crash_win",
+      "amount": 14,
+      "balanceAfter": 10004,
+      "reference": "crash:423eff98-fc21-4c36-9542-d6b6226d640c",
+      "createdAt": "2026-11-17T16:21:04.375Z"
+    },
+    {
+      "id": "9b719f5d-1cd4-4e5f-9125-42df5bc5177f",
+      "userId": "900000001",
+      "publicId": "xs-70013551446",
+      "displayName": "@localdev",
+      "type": "game_spend",
+      "amount": -10,
+      "balanceAfter": 9994,
+      "reference": "pvp:b6e75cd0-2fcf-4312-9558-f06edad8ea54",
+      "createdAt": "2026-11-17T16:21:42.120Z"
+    },
+    {
+      "id": "041a2f42-0948-448a-9ac9-a63e326da32b",
+      "userId": "900000001",
+      "publicId": "xs-70013551446",
+      "displayName": "@localdev",
+      "type": "game_refund",
+      "amount": 10,
+      "balanceAfter": 10004,
+      "reference": "pvp:b6e75cd0-2fcf-4312-9558-f06edad8ea54",
+      "createdAt": "2026-11-17T16:21:57.709Z"
+    },
+    {
+      "id": "81e03e0e-42d9-4296-bf7d-198236f39801",
+      "userId": "900000001",
+      "publicId": "xs-70013551446",
+      "displayName": "@localdev",
+      "type": "game_spend",
+      "amount": -20,
+      "balanceAfter": 9984,
+      "reference": "spin",
+      "createdAt": "2026-11-18T04:07:05.934Z"
+    },
+    {
+      "id": "2f34ba60-ec48-4b79-baa1-8c516a75bf34",
+      "userId": "900000001",
+      "publicId": "xs-70013551446",
+      "displayName": "@localdev",
+      "type": "spin_reward",
+      "amount": 20,
+      "balanceAfter": 10004,
+      "reference": "spin",
+      "createdAt": "2026-11-18T04:07:05.934Z"
+    },
+    {
+      "id": "c45b4176-8ba4-4873-b64f-b7937c7730b3",
+      "userId": "900000001",
+      "publicId": "xs-70013551446",
+      "displayName": "@localdev",
+      "type": "game_spend",
+      "amount": -20,
+      "balanceAfter": 9984,
+      "reference": "spin",
+      "createdAt": "2026-11-18T04:07:14.751Z"
+    },
+    {
+      "id": "17ea772e-3219-412a-8cd9-418098f0b88f",
+      "userId": "900000001",
+      "publicId": "xs-70013551446",
+      "displayName": "@localdev",
+      "type": "spin_reward",
+      "amount": 5,
+      "balanceAfter": 9989,
+      "reference": "spin",
+      "createdAt": "2026-11-18T04:07:14.751Z"
+    },
+    {
+      "id": "f4f8caa3-cb4e-45bc-81e3-77b6ff3ddb1d",
+      "userId": "900000001",
+      "publicId": "xs-70013551446",
+      "displayName": "@localdev",
+      "type": "game_spend",
+      "amount": -10,
+      "balanceAfter": 9979,
+      "reference": "crash:682d9db2-77df-413f-aa04-ca58e9a3c6d0",
+      "createdAt": "2026-11-18T05:19:48.307Z"
+    },
+    {
+      "id": "a3f0cde8-af58-4387-a74f-1738764a4bcb",
+      "userId": "900000001",
+      "publicId": "xs-70013551446",
+      "displayName": "@localdev",
+      "type": "crash_win",
+      "amount": 16,
+      "balanceAfter": 9995,
+      "reference": "crash:682d9db2-77df-413f-aa04-ca58e9a3c6d0",
+      "createdAt": "2026-11-18T05:19:57.110Z"
+    },
+    {
+      "id": "f69fd188-aff9-4473-901d-0d04eee7e7b8",
+      "userId": "900000001",
+      "publicId": "xs-70013551446",
+      "displayName": "@localdev",
+      "type": "game_spend",
+      "amount": -1110,
+      "balanceAfter": 8885,
+      "reference": "crash:91583477-e5f6-47d6-b0cc-2eab61c6792d",
+      "createdAt": "2026-11-18T05:27:53.221Z"
+    }
+  ],
+  "slotActions": {},
+  "tournamentPayouts": {},
+  "adminCommissionBalance": 0,
+  "lastTournamentProcessedWeekStart": 1794769200000,
+  "pvpRound": {
+    "id": "b6e75cd0-2fcf-4312-9558-f06edad8ea54",
+    "phase": "cancelled",
+    "deadline": 1794932517109,
+    "bets": [
+      {
+        "userId": "900000001",
+        "publicId": "xs-70013551446",
+        "displayName": "1446",
+        "amount": 10,
+        "initials": "14",
+        "photoUrl": "",
+        "status": "refunded"
+      }
+    ],
+    "result": {
+      "message": "Kamida 2 o‘yinchi kerak edi; stavka qaytarildi."
+    }
+  }
+}

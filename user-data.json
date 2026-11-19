@@ -1,0 +1,14 @@
+{
+  "users": {},
+  "promocodes": {
+    "XS2026": 50,
+    "START": 25
+  },
+  "pendingPayments": {},
+  "processedPayments": {},
+  "ledger": [],
+  "slotActions": {},
+  "tournamentPayouts": {},
+  "adminCommissionBalance": 0,
+  "lastTournamentProcessedWeekStart": 1794769200000
+}
